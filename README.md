@@ -1,4 +1,4 @@
-# data-augmentation-translation
+# text-augmentation-translator
 In this exercise, we are trying to augment new text data by translating the original data to other languages, and back-translate it to its original language.
 
 Problem statement: We don't have much data to train our model. Therefore, we want to create/augment more data to improve the learning curve of our model and, ultimately, produce a better prediction. 
